@@ -25,7 +25,8 @@ Este projeto foi construído com as seguintes tecnologias:
 - **Código limpo:** O código é organizado e fácil de entender, seguindo boas práticas de desenvolvimento.
 - **Design responsivo:** O layout é adaptável a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis.
 - **Uso de API:** O projeto consome dados de uma API externa, demonstrando habilidades de integração e manipulação de dados.
+- **Async/await:** O projeto utiliza async/await para lidar com operações assíncronas, tornando o código mais legível e eficiente.
 - **Try/Catch:** O projeto utiliza blocos try/catch para tratamento de erros, garantindo maior robustez e estabilidade.
-- **Recarregamento:** Utiliza o evento de click para recarregar a página com `windo.location.reload()`, permitindo que os usuários obtenham novas frases bíblicas de forma rápida e fácil.
+- **Recarregamento:** Utiliza o evento de click para recarregar a página com `window.location.reload()`, permitindo que os usuários obtenham novas frases bíblicas de forma rápida e fácil.
 - **Tradução de dados:** Os dados obtidos da API são traduzidos para português, proporcionando uma experiência mais acessível para os usuários que falam essa língua.
 - **Sem frameworks ou bibliotecas externas:** O projeto é construído utilizando apenas tecnologias nativas, sem depender de frameworks ou bibliotecas externas, o que demonstra um bom domínio das tecnologias básicas da web.
